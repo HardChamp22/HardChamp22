@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @HardChamp22
-- 👀 I’m interested in python Developing
-- 🌱 I’m currently learning Django Framework and app building
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Mail me at negihardik1016@gmail.com
+# 💫 About Me:
+👋 Hello there! I'm Hardik, a passionate and skilled software engineer with expertise in a wide range of technologies. With a focus on backend and frontend development, I love building efficient, scalable, and user-friendly applications that make a real impact.<br><br>🚀 My journey in the world of coding started with Python, and I quickly fell in love with its simplicity and versatility. As a Python enthusiast, I have honed my skills in developing robust and elegant solutions for various projects.<br><br>💡 I'm well-versed in Django, a powerful web framework, which allows me to craft dynamic and high-performance web applications with ease. Working with CakePHP and PHP has also given me a solid foundation in backend development, enabling me to create seamless and interactive user experiences.<br><br>🔍 Embracing modern technologies, I have explored the world of NoSQL databases, leveraging their flexibility and scalability to optimize data management. Git and GitHub have become my trusted allies for version control, ensuring efficient collaboration with teams and seamless project management.<br><br>🐳 Docker has been an essential part of my toolkit, enabling me to containerize applications for streamlined deployment and hassle-free scalability. I'm also well-versed in Postman, making API testing and documentation a breeze.<br><br>🌐 When it comes to the frontend, I have a creative flair for crafting visually appealing and responsive user interfaces. Proficient in HTML, CSS, and JavaScript, I build intuitive and delightful experiences for users. ReactJS has captured my heart, and I'm continuously exploring its capabilities to create cutting-edge frontend applications.<br><br>🛠️ Apart from these, I'm well-acquainted with a range of frontend tools that streamline development, boost productivity, and enhance the overall user experience.<br><br>📚 Constantly seeking knowledge and learning, I thrive on challenges and always push myself to deliver the best solutions. I'm passionate about staying up-to-date with the latest industry trends and emerging technologies.<br><br>🌟 As a software engineer, I believe in the power of collaboration and open-source initiatives. I take immense pride in contributing to the developer community and sharing my expertise.<br><br>💼 If you're looking for a dedicated, innovative, and dynamic software engineer to join your team or collaborate on exciting projects, feel free to reach out! Let's create something extraordinary together. 🚀<br><br>Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to connect with me. I'm always open to new opportunities and challenges. Let's make a difference in the world of technology together! 🌐💻
 
-<!---
-HardChamp22/HardChamp22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hardik-negi-8986a2225) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HardChamp22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HardChamp22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HardChamp22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=HardChamp22&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
